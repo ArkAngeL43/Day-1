@@ -1,0 +1,22 @@
+|-> WHat is this script?
+|-> this is a simple golang logging server for PostGreSQL servers that serves a static HTML file
+|-> This is apart of my 6 days of christmas challenge 
+|=> POSSIBLE COMMANDS
+|
+|
+|=> lo-get | make a get request to the web server 
+|=> help   | find and output this help file
+|=> log    | output the current access log of the server 
+|=> chconn | check connection
+|=> ver    | get the PostGreSQL version
+|
+|======================== Your way around the login box =======================
+|=> Database name input -> if you have tied this with a database then enter the name < is not needed > 
+|=> password            -> this is the password for the database you are tying it with
+|=> table               -> table name 
+|=> command             -> enter the few commands above 
+|=> acting-password     -> password to authenticate through 
+|
+| MANDATORY input
+|
+|=> Acting password
