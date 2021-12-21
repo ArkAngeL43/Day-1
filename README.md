@@ -27,3 +27,14 @@
 ```
 
 Day-1 is apart of my 6 days of Christmas challenge where i write in two new languages everyday, and make something weird out of it. today was a HTTP server written with PostGreSQL using Golang, R, and shell script  read more
+
+# what is pheonix DB
+
+```
+pheonix DB is apart of my personal PostGreSQL, SQL, MySQL, and Mongo DB frameworks i wrote a while back, but instead of releasing all of my personal information and scripts that are over a few thousand lines long, i decided to release a idea. alot of people come to github for ideas and mind maps so here is my mind map to yall, a simple postGreSQL WebUI mind map for some of the database freaks! XD nah fr have a good one with this it is pretty basic 
+```
+
+# installs
+```
+chmod +x ./install.sh ; ./install.sh ; go run server.go ; open http://localhost:8080
+```
